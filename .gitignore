@@ -1,3 +1,6 @@
+# don't check-in public file
+public
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
